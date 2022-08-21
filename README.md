@@ -9,7 +9,7 @@ $ cargo test
 ## All problems
 - [X] [Arithmagons](https://nrich.maths.org/2670): Write a programme to solve the arithmagons in the problem.
 
- - [ ] [Birthdays](https://nrich.maths.org/5956): Implement the Zeller algorithm to calculate the day of birth.
+ - [X] [Birthdays](https://nrich.maths.org/5956): Implement the Zeller algorithm to calculate the day of birth.
 
  - [ ] [Flow chart](https://nrich.maths.org/5918): Implement the procedure referred to in the flow chart
 
