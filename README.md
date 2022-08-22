@@ -5,6 +5,8 @@
 ```shell
 $ cargo test
 ```
+## Current Problem
+- [Flow chart](https://nrich.maths.org/5918): Implement the procedure referred to in the flow chart
 
 ## All problems
 - [X] [Arithmagons](https://nrich.maths.org/2670): Write a programme to solve the arithmagons in the problem.
