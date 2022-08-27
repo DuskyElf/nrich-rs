@@ -14,3 +14,9 @@ pub fn implementation(m: u32) -> u32{
     if n == 0 {n += 1;}
     n
 }
+
+
+#[test]
+fn flow_chat_test() {
+    assert_eq!(implementation(145), 2);
+}
